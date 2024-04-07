@@ -25,3 +25,5 @@ class Plant:
         # Set attributes for weekly schedule
             
         # Set attributes for sensor schedule
+            
+
